@@ -1,43 +1,43 @@
 {
     "scheme": [
         {
-            "id": 1,
-            "claim_set_id": "DBS01",
+            "scheme_id": 1,
+            "scheme_name": "DBS01",
             "asset_serno": "number",
             "asset_name": "string",
             "asset_cat": "string"
         },
         {
-            "id": 2,
-            "claim_set_id": "DBS02",
+            "scheme_id": 2,
+            "scheme_name": "DBS02",
             "asset_volume": "string",
             "asset_warranty": "string"
         }
     ],
     "claim": [
         {
-            "id": 1,
+            "claim_set_id": 1,
             "scheme_id": "1",
             "asset_serno": "0x000123",
             "asset_name": "KNORR ACR Breme 19kNm",
             "asset_cat": "Digital Asset IoT"
         },
         {
-            "id": 2,
+            "claim_set_id": 2,
             "scheme_id": "1",
             "asset_serno": "0x000258",
             "asset_name": "Siemens Radar e-XCV 12",
             "asset_cat": "Digital Asset IoT"
         },
         {
-            "id": 3,
+            "claim_set_id": 3,
             "scheme_id": "1",
             "asset_serno": "0x000032",
             "asset_name": "Siemens PUMP-Radiator x2",
             "asset_cat": "Digital Asset IoT"
         },
         {
-            "id": 4,
+            "claim_set_id": 4,
             "scheme_id": "2",
             "asset_volume": "VOL-2020",
             "asset_warranty": "SAP Master Warranty m-0123"
