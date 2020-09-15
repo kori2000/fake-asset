@@ -1,4 +1,24 @@
 {
+    "wallet": [
+        {
+            "wallet_id": 1,
+            "wallet_name": "DB Cargo AG",
+            "blockchain": "HLF Indy",
+            "public-key": "MIIEpQIBAAKCAQEAy4h50jvgZcVBC4rrc1Q3ooxgPZA74oTtQDXMKkGUSMEJQbZ9"
+        },
+        {
+            "wallet_id": 2,
+            "wallet_name": "DB Systel GmbH",
+            "blockchain": "Quorum",
+            "public-key": "HXk7tyaJ1e42X+TEnG64lYyUElMhVa7gaRuo44pl5/nHxSGMSm3HOhM1SeFl70pM"
+        },
+        {
+            "wallet_id": 3,
+            "wallet_name": "ArrivaUK HQ",
+            "blockchain": "POA Playground",
+            "public-key": "29em/AUCgYEAj+6NEIj9XWuYccXhimvJxFDRGqYybQyBK5DH+4ceg2IpZMM00lpG"
+        }
+    ],
     "scheme": [
         {
             "scheme_id": 1,
